@@ -1,3 +1,4 @@
+
 ;; vbt.el -*- bytes-compile-dynamic: news -*-
 
 ;; name project: guile-vbt
